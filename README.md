@@ -1,4 +1,4 @@
-# Login Yahoo Japan
+# Login Yahoo Japan and Amazon Japan
 
 Libraries
 - Selenium
